@@ -64,7 +64,7 @@ A aplicação permite ao usuário:
 ## 📂 Como Executar
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seu-repositorio/buscador-cep-java
+   git clone https://github.com/NayaraCalixto/buscador-de-cep-com-api
 
 ## 👨‍🏫 Instrutores
 - Jacqueline Oliveira
